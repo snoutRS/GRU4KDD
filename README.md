@@ -8,3 +8,6 @@ To reproduce the results:
 3. For inference `sh inference.sh`;
 
 Our improved score of -45.186 is better than the original score of -45.213
+
+
+[Data set download here](https://aistudio.baidu.com/aistudio/competition/detail/152/0/introduction)
